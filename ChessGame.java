@@ -1,6 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
+// A chess game using only knights for user and AI
 public class ChessGame {
 	
 	static int width;
