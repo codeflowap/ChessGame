@@ -4,6 +4,7 @@ import java.util.Scanner;
 import textchess.Board;
 import java.util.Random;
 
+// contains the main class
 public class TextChess {
 	static final int WHITE = 1;
 	static final int BLACK = 0;
